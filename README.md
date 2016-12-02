@@ -23,7 +23,7 @@ Module                  Size  Used by
 ```
 ## Plug it in (D-Link DWA-171)
 ```
-lsmod
+lsusb
 Bus 003 Device 003: ID 2001:3314 D-Link Corp.
 [...]
 
