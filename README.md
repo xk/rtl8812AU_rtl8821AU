@@ -69,4 +69,10 @@ wlan1     IEEE 802.11AC  ESSID:"YOUR SSID"  Nickname:"<WIFI@REALTEK>"
           Tx excessive retries:0  Invalid misc:0   Missed beacon:0
 ```
 
+
+BTW:
+```
+uname -a
+Linux orangepipc 3.4.112-sun8i #10 SMP PREEMPT Sun Oct 23 16:06:55 CEST 2016 armv7l GNU/Linux
+```
 Good luck!
