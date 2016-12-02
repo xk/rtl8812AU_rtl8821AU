@@ -1,7 +1,7 @@
 # rtl8821 rtl8812
 *2 de Diciembre 2016 jorge@jorgechamorro.com*
 
-For armbian / Orange Pi PC
+For armbian / Orange Pi PC / D-Link DWA-171
 ## Prepare
 ```sh
 sudo apt-get install build.essential git
